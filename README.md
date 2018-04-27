@@ -6,7 +6,7 @@
 <a href="https://">Practica #5 MENU RESPONSIVOS </a><br>
 <a href="https://">Practica #6 ICONOS</a><br>
 <a href="https://">Practica #7 CARRUSEL</a><br>
-<a href="https://">Practica #8 MODALES</a><br>
+<a href="https://Lluvia-Calderon.github.io/Practica #8.-Modales en bootstrap.-Modales en bootstrap.html">Practica #8 MODALES</a><br>
 
   
 
